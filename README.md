@@ -1,5 +1,5 @@
--  <h1>Hi 👋 , I’m Lusine  </h1>
-<h3>👩🏼‍💻 Front-End Developer</h3>  
+-  <h1>Hi 👋 , I’m Lusine 👩🏼‍💻 </h1>
+<h3> Front-End Developer</h3>  
 
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about JavaScript,React JS or even Physics
