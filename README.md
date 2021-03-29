@@ -6,7 +6,7 @@
 - ✨ I'm interested in <br>
      💻 Coding <br>
 		 📚 Reading <br>
-    🎨 Painting <br>
+     🎨 Painting <br>
 		🛹 Skateboarding 
  - ⚡ Fun fact I drink coffee in every incomprehensible situation :d
 
