@@ -1,7 +1,7 @@
   <h1>Hi 👋 , I’m Lusin 👩🏼‍💻 </h1>
 <h3> Front-End Developer</h3>  
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and Redux
 - 💬 Ask me about JavaScript,React JS or even Physics
 - ✨ I'm interested in <br>
      💻 Coding <br>
